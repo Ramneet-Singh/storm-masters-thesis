@@ -1,3 +1,5 @@
+Please see the `stable` branch for my contributions. Usual Storm GitHub README below.
+
 Storm - A Modern Probabilistic Model Checker
 ============================================
 
